@@ -45,7 +45,7 @@ contaCorrente.sacar(300);
 contaCorrente.extrato();
 
 /* Usando o objeto do quiz anterior, responda à seguinte pergunta:
-Quais da seguintes são maneiras válidas para acessar propriedades e chamar métodos de um objeto chamado contaCorrente? */
+Quais são maneiras válidas para acessar propriedades e chamar métodos de um objeto chamado contaCorrente? */
 
 contaCorrente.saldo;
 contaCorrente["saldo"];

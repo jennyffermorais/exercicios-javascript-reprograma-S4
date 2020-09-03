@@ -20,10 +20,10 @@ let facebookProfile = {
     facebookProfile.messages.splice(index, 1);
   },
   adicionar: function addFriend() {
-    facebookProfile.friends += 1;
+    facebookProfile.friends++;
   },
   remover: function removeFriend() {
-    facebookProfile.friends -= 1;
+    facebookProfile.friends--;
   },
 };
 
